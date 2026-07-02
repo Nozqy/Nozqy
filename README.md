@@ -54,8 +54,8 @@ Welcome to my GitHub profile! I am a second-year Software Programming student at
 ### 📊 GitHub Stats / Mis Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nozqy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nozqy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Nozqy&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-jxnblk.vercel.app/api/top-langs/?username=Nozqy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 ---

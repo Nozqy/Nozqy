@@ -65,13 +65,3 @@ Welcome to my GitHub profile! I am a second-year Software Programming student at
 * 💼 **LinkedIn:** //
 * 📧 **Email:** //
 
----
-⭐️ *By Nozqy with ❤️*
-⭐️ *De Nozqy con ❤️*
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nozqy/Nozqy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nozqy/Nozqy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nozqy/Nozqy/output/pacman-contribution-graph.svg">
-</picture>
-
-###

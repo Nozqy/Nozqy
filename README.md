@@ -66,8 +66,8 @@ Welcome to my GitHub profile! I am a second-year Software Programming student at
 * 📧 **Email:** //
 
 ---
-⭐️ *By Bruno with ❤️*
-⭐️ *De Bruno con ❤️*
+⭐️ *By Nozqy with ❤️*
+⭐️ *De Nozqy con ❤️*
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
